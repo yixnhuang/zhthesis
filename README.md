@@ -67,7 +67,7 @@ https://github.com/yixnhuang
 ```text
 .
 ├── main.tex                     % 主 TeX 文件
-├── chinese-thesis.cls           % 论文模板类文件
+├── chinesethesis.cls           % 论文模板类文件
 ├── references.bib               % 参考文献数据库
 ├── figures/                     % 图片与插图目录
 ├── texs/                        % 论文各章节文件

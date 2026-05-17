@@ -1,4 +1,4 @@
-# Chinese Thesis Template
+# Awesome Chinese Thesis Template
 
 [简体中文](README.md) | English
 
@@ -67,8 +67,8 @@ English email communication is preferred.
 
 ```text
 .
-├── main.tex                     % Main TeX source file
-├── chinese-thesis.cls          % Thesis document class
+├── main.tex                    % Main TeX source file
+├── chinesethesis.cls          % Thesis document class
 ├── references.bib              % Bibliography database
 ├── figures/                    % Images and figures
 ├── texs/                       % Thesis chapter files
@@ -79,5 +79,5 @@ English email communication is preferred.
 │   ├── 20_acknowledgement.tex  % Acknowledgement
 |   └── 30_appendices.tex       % Appendices
 ├── README.md                   % Project documentation (Simplified Chinese)
-└── README_en.md                   % Project documentation (English)
+└── README_en.md                % Project documentation (English)
 ```

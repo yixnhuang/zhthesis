@@ -631,5 +631,6 @@
 \newcommand*{\cthesis@cap@proof}{证明}
 \newcommand*{\cthesis@cap@property}{性质}
 \newcommand*{\cthesis@cap@remark}{注解}
+\renewcommand{\algorithmcfname}{算法}
 
 \endinput
