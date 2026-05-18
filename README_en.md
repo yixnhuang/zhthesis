@@ -51,6 +51,15 @@ If this template has helped you during your thesis writing process and you would
 
 It is always meaningful to know that this project has been useful to others.
 
+### License
+
+This project is distributed under the:
+
+ACADEMIC ATTRIBUTION AND RESTRICTED USE LICENSE  
+Version 1.0.0
+
+See the `LICENSE` file for full terms and conditions.
+
 ---
 
 ## Contact
@@ -68,7 +77,7 @@ English email communication is preferred.
 ```text
 .
 ├── main.tex                    % Main TeX source file
-├── chinesethesis.cls          % Thesis document class
+├── chinesethesis.cls           % Thesis document class
 ├── references.bib              % Bibliography database
 ├── figures/                    % Images and figures
 ├── texs/                       % Thesis chapter files

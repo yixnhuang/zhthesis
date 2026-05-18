@@ -50,6 +50,15 @@
 
 能够通过自己的工作帮助到其他人，是一件非常有意义的事情。
 
+### 关于协议
+
+本项目遵循以下许可协议发布：
+
+ACADEMIC ATTRIBUTION AND RESTRICTED USE LICENSE
+Version 1.0.0
+
+完整条款及细则请参阅 LICENSE 文件。
+
 ---
 
 ## 联系方式
@@ -67,7 +76,7 @@ https://github.com/yixnhuang
 ```text
 .
 ├── main.tex                     % 主 TeX 文件
-├── chinesethesis.cls           % 论文模板类文件
+├── chinesethesis.cls            % 论文模板类文件
 ├── references.bib               % 参考文献数据库
 ├── figures/                     % 图片与插图目录
 ├── texs/                        % 论文各章节文件
