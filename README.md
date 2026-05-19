@@ -54,10 +54,59 @@
 
 本项目遵循以下许可协议发布：
 
-ACADEMIC ATTRIBUTION AND RESTRICTED USE LICENSE
+ACADEMIC ATTRIBUTION AND RESTRICTED USE LICENSE  
 Version 1.0.0
 
 完整条款及细则请参阅 LICENSE 文件。
+
+---
+
+## 使用方式
+
+本模板支持以下几种使用方式。
+
+### 方法一：使用 Overleaf 在线模板
+
+你可以直接通过 Overleaf 模板链接创建项目：
+
+（正在准备中）
+
+### 方法二：通过 Release 导入 Overleaf
+
+1. 在 Releases 页面下载 `.zip` 压缩包
+2. 登录 [Overleaf](https://www.overleaf.com/)
+3. 选择 `New Project -> Upload Project`
+4. 上传下载的 `.zip` 文件即可开始使用
+
+> 注意：
+> 上传项目后，请在 Overleaf 的 Menu 中将 Compiler 设置为 `XeLaTeX`。
+> 否则中文字体可能无法正常编译。
+
+### 方法三：本地编译
+
+你可以通过 Git 获取项目：
+
+```bash
+git clone https://github.com/yixnhuang/awesome-chinese-thesis.git
+```
+
+随后使用本地 LaTeX 环境进行编译。
+
+推荐编译顺序：
+
+```text
+XeLaTeX
+BibTeX
+XeLaTeX
+XeLaTeX
+```
+
+推荐环境：
+
+- TeX Live
+- MacTeX
+- MiKTeX
+- VS Code + LaTeX Workshop
 
 ---
 
@@ -84,8 +133,8 @@ https://github.com/yixnhuang
 │   ├── 01_intro.tex             % 绪论
 │   ├── ...
 │   ├── 06_conclusion.tex        % 总结部分
-│   └── 20_acknowledgement.tex   % 致谢
-|   └── 30_appendices.tex        % 附录
+│   ├── 20_acknowledgement.tex   % 致谢
+│   └── 30_appendices.tex        % 附录
 ├── README.md                    % 简体中文项目说明文件
 └── README_en.md                 % 英文项目说明文件
 ```

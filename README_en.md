@@ -62,6 +62,57 @@ See the `LICENSE` file for full terms and conditions.
 
 ---
 
+## Usage
+
+This template can be used in several ways.
+
+### Method 1: Use the Overleaf Template
+
+You can directly create a project from the Overleaf template link:
+
+(Coming soon)
+
+### Method 2: Import Release Package into Overleaf
+
+1. Download the `.zip` package from the Releases page
+2. Log in to [Overleaf](https://www.overleaf.com/)
+3. Select `New Project -> Upload Project`
+4. Upload the downloaded `.zip` file
+
+> [!NOTE]
+> After uploading the project, please set the compiler in the Overleaf Menu to `XeLaTeX`.
+> Otherwise, Chinese fonts may fail to compile correctly.
+
+You may also clone the repository and compress the project manually before uploading.
+
+### Method 3: Compile Locally
+
+Clone the repository using Git:
+
+```bash
+git clone https://github.com/yixnhuang/awesome-chinese-thesis.git
+```
+
+Then compile the project using your local LaTeX environment.
+
+Recommended compilation sequence:
+
+```text
+XeLaTeX
+BibTeX
+XeLaTeX
+XeLaTeX
+```
+
+Recommended environments:
+
+- TeX Live
+- MacTeX
+- MiKTeX
+- VS Code + LaTeX Workshop
+
+---
+
 ## Contact
 
 If you have any questions about the template, you may contact me using the most recent email address available on my GitHub homepage:
@@ -86,7 +137,7 @@ English email communication is preferred.
 │   ├── ...
 │   ├── 06_conclusion.tex       % Conclusion
 │   ├── 20_acknowledgement.tex  % Acknowledgement
-|   └── 30_appendices.tex       % Appendices
+│   └── 30_appendices.tex       % Appendices
 ├── README.md                   % Project documentation (Simplified Chinese)
 └── README_en.md                % Project documentation (English)
 ```
