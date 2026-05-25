@@ -115,9 +115,9 @@ Recommended environments:
 
 ## Contact
 
-If you have any questions about the template, you may contact me using the most recent email address available on my GitHub homepage:
+If you have any questions about the template, you may contact me using the most recent email address available on my personal website:
 
-https://github.com/yixnhuang
+[https://github.com/yixnhuang](https://yixuanhuang.com/)
 
 English email communication is preferred.
 

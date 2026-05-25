@@ -1,5 +1,5 @@
 % ------------------------------------------------------------------------------
-% Chinese Thesis Template
+% Awesome Chinese Thesis Template
 %
 % A customizable LaTeX thesis template collection for Chinese universities
 %
@@ -7,7 +7,7 @@
 %   Yixuan Huang
 %
 % Repository:
-%   https://github.com/yixnhuang/chinese-thesis-template
+%   https://github.com/yixnhuang/awesome-chinese-thesis
 %
 % Copyright (c) 2026 Yixuan Huang. All rights reserved.
 %
@@ -26,7 +26,7 @@
 %
 % Contact:
 %   The most recent contact information can be found at:
-%   https://github.com/yixnhuang
+%   https://yixuanhuang.com/
 %
 %   English email communication is preferred.
 % ------------------------------------------------------------------------------

@@ -112,9 +112,9 @@ XeLaTeX
 
 ## 联系方式
 
-如果你对模板有任何问题，可以通过我 GitHub 主页中最新的邮箱地址联系我：
+如果你对模板有任何问题，可以通过我的个人主页中最新的邮箱地址联系我：
 
-https://github.com/yixnhuang
+[https://github.com/yixnhuang](https://yixuanhuang.com/)
 
 推荐使用英文邮件进行交流。
 
