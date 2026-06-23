@@ -2,7 +2,7 @@
 
 简体中文 | [English](README_en.md)
 
-版权所有 © 2026 Yixuan Huang。保留所有权利。
+版权所有 © 2026 Yixuan Huang。
 
 一个适用于中国高校的现代化、可定制化 LaTeX 论文模板集合。
 
