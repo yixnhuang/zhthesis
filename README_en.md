@@ -2,7 +2,7 @@
 
 [简体中文](README.md) | English
 
-Copyright (c) 2026 Yixuan Huang. All rights reserved.
+Copyright (c) 2026 Yixuan Huang.
 
 A modern and customizable LaTeX thesis template collection designed for Chinese universities.
 

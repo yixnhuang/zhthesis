@@ -1,165 +1,21 @@
-ACADEMIC ATTRIBUTION AND RESTRICTED USE LICENSE
-Version 1.0.0
-
-Drafted and maintained by Yixuan Huang
+MIT License
 
 Copyright (c) 2026 Yixuan Huang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to use,
-study, and modify the Software solely under the terms and conditions of this
-License.
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-1. DEFINITIONS
-
-1.1 "Software" refers to the source code, documentation, configuration files,
-assets, templates, and all associated materials distributed under this License.
-
-1.2 "Author" refers exclusively to Yixuan Huang, the original creator and
-copyright holder of the Software.
-
-1.3 "Derivative Work" refers to any modified, adapted, translated, extended,
-or partially reused version of the Software.
-
-1.4 "Distribution" refers to any sharing, publication, hosting, transfer,
-uploading, reposting, mirroring, or redistribution of the Software or any
-Derivative Work to a third party.
-
-1.5 "Commercial Use" refers to any use intended for commercial advantage,
-financial benefit, monetization, paid service integration, or commercial
-deployment of the Software or Derivative Works.
-
-2. GRANTED RIGHTS
-
-Subject to full compliance with this License, the following rights are granted:
-
-2.1 The Software may be used for:
-    - personal learning,
-    - academic research,
-    - educational purposes,
-    - non-commercial development.
-
-2.2 The Software may be modified for personal or academic use.
-
-2.3 Derivative Works may be created under the restrictions defined in this
-License.
-
-No rights are granted except those expressly stated herein.
-
-3. ATTRIBUTION REQUIREMENT
-
-3.1 Attribution to the original Author is mandatory in all circumstances.
-
-3.2 Any use, modification, publication, reference, or Distribution of the
-Software or Derivative Works MUST clearly and visibly include the following
-statement:
-
-    "Based on work by Yixuan Huang"
-
-3.3 All copyright notices, attribution notices, and license notices must be
-preserved in their original form.
-
-3.4 The Author's name, authorship, and contribution may not be removed,
-obscured, replaced, falsified, or misrepresented.
-
-3.5 Any modification to the Software must be clearly disclosed.
-
-4. DISTRIBUTION RESTRICTIONS
-
-4.1 Distribution of the Software or Derivative Works is permitted only if:
-
-    (a) full attribution is preserved;
-    (b) this License is included in its entirety;
-    (c) all modifications are clearly documented;
-    (d) the Distribution remains strictly non-commercial.
-
-4.2 Redistribution without attribution is strictly prohibited.
-
-4.3 Republishing the Software or substantial portions of the Software under
-another name, identity, repository, organization, or authorship claim is
-strictly prohibited.
-
-4.4 The Software or Derivative Works may not be presented, intentionally or
-implicitly, as original work created solely by another party.
-
-5. COMMERCIAL USE PROHIBITION
-
-5.1 Commercial Use of the Software or Derivative Works is strictly prohibited
-without explicit prior written permission from the Author.
-
-5.2 The following activities are prohibited without written authorization:
-
-    - selling the Software;
-    - paid redistribution;
-    - commercial hosting;
-    - integration into paid products or services;
-    - monetized deployment;
-    - sublicensing;
-    - commercial consulting based primarily on the Software.
-
-6. DERIVATIVE WORKS
-
-6.1 Derivative Works are permitted solely for personal, educational, or
-academic non-commercial purposes.
-
-6.2 Derivative Works must remain under this License.
-
-6.3 Derivative Works may not remove or weaken any restriction contained in
-this License.
-
-6.4 Authors of Derivative Works may not claim exclusive ownership over the
-original Software or its core structure.
-
-7. ACADEMIC AND PUBLICATION USE
-
-7.1 Any academic paper, thesis, article, report, presentation, publication,
-or public work using the Software must provide clear attribution to the
-Author.
-
-7.2 Use of the Software in coursework, assignments, examinations, or academic
-submissions without proper attribution constitutes a violation of this
-License.
-
-7.3 Citation of the original repository or project page is strongly encouraged.
-
-8. PROHIBITED CONDUCT
-
-The following actions are expressly prohibited:
-
-8.1 Removing attribution information;
-
-8.2 Falsely claiming authorship;
-
-8.3 Misrepresenting modified versions as the original Software;
-
-8.4 Using the Software in violation of applicable laws or regulations;
-
-8.5 Using the Software to intentionally damage, exploit, or harm others.
-
-9. TERMINATION
-
-9.1 Any violation of this License automatically terminates all rights granted
-under this License.
-
-9.2 Upon termination, all use, Distribution, and possession rights granted
-under this License immediately cease.
-
-9.3 Sections relating to attribution, restrictions, prohibited conduct, and
-liability survive termination.
-
-10. NO WARRANTY
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
-
-IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
-DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
-OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE
-USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-11. RESERVATION OF RIGHTS
-
-All rights not expressly granted under this License are reserved by the Author.
-
-END OF LICENSE
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
