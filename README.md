@@ -1,4 +1,4 @@
-# 中文论文模板
+# ZhThesis：中文学术论文模板
 
 简体中文 | [English](README_en.md)
 
@@ -87,7 +87,7 @@ Version 1.0.0
 你可以通过 Git 获取项目：
 
 ```bash
-git clone https://github.com/yixnhuang/awesome-chinese-thesis.git
+git clone https://github.com/yixnhuang/zhthesis.git
 ```
 
 随后使用本地 LaTeX 环境进行编译。
@@ -125,7 +125,7 @@ XeLaTeX
 ```text
 .
 ├── main.tex                     % 主 TeX 文件
-├── chinesethesis.cls            % 论文模板类文件
+├── zhthesis.cls                 % 论文模板类文件
 ├── references.bib               % 参考文献数据库
 ├── figures/                     % 图片与插图目录
 ├── texs/                        % 论文各章节文件

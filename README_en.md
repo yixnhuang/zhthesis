@@ -1,4 +1,4 @@
-# Awesome Chinese Thesis Template
+# ZhThesis: A modern LaTeX template for Chinese academic theses
 
 [简体中文](README.md) | English
 
@@ -90,7 +90,7 @@ You may also clone the repository and compress the project manually before uploa
 Clone the repository using Git:
 
 ```bash
-git clone https://github.com/yixnhuang/awesome-chinese-thesis.git
+git clone https://github.com/yixnhuang/zhthesis.git
 ```
 
 Then compile the project using your local LaTeX environment.
@@ -128,7 +128,7 @@ English email communication is preferred.
 ```text
 .
 ├── main.tex                    % Main TeX source file
-├── chinesethesis.cls           % Thesis document class
+├── zhthesis.cls                % Thesis document class
 ├── references.bib              % Bibliography database
 ├── figures/                    % Images and figures
 ├── texs/                       % Thesis chapter files

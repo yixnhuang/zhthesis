@@ -1,5 +1,5 @@
 % ------------------------------------------------------------------------------
-% Awesome Chinese Thesis Template
+% ZhThesis: A modern LaTeX template for Chinese academic theses
 %
 % A customizable LaTeX thesis template collection for Chinese universities
 %
@@ -7,7 +7,7 @@
 %   Yixuan Huang
 %
 % Repository:
-%   https://github.com/yixnhuang/awesome-chinese-thesis
+%   https://github.com/yixnhuang/zhthesis
 %
 % Copyright (c) 2026 Yixuan Huang. All rights reserved.
 %
@@ -33,7 +33,7 @@
 
 \NeedsTeXFormat{LaTeX2e}[1999/12/01]
 
-\ProvidesClass{chinese-thesis}
+\ProvidesClass{zhthesis}
   [2026/05/14 Unofficial Chinese University Thesis Class]
 
 % ------------------------------------------------------------------------------
@@ -56,7 +56,7 @@
 \DeclareOption{nobib}{\cthesis@options@nobibtrue}
 
 \DeclareOption{noextrafonts}{
-	\ClassWarning{chinese-thesis}{
+	\ClassWarning{zhthesis}{
 		The `noextrafonts' option is deprecated and can now be detected automatically
 	}
 }
@@ -105,7 +105,7 @@
 	\IfFontExistsTF{STZhongsong.ttf}{
 		\providecommand{\zhongsong}{\CJKfontspec{STZhongsong.ttf}}
 	}{
-		\ClassWarning{chinese-thesis}{
+		\ClassWarning{zhthesis}{
 			Font `STZhongsong' was not found. Install it to meet formatting requirements
 		}
 		\providecommand{\zhongsong}{\songti}
@@ -201,7 +201,7 @@
 	bookmarksnumbered=true,
 	bookmarksopen=true,
 	allcolors=blue,
-	pdfsubject={Chinese Thesis LaTeX Template},
+	pdfsubject={ZhThesis: A modern LaTeX template for Chinese academic theses},
 	pdfcreator={Yixuan Huang},
 	pdfproducer={XeLaTeX},
 	pdfkeywords={LaTeX, thesis, template, Chinese university}
@@ -552,7 +552,7 @@
 \ifcthesis@options@nobib
 
 \providecommand{\printbibliography}{
-	\ClassWarning{chinese-thesis}{
+	\ClassWarning{zhthesis}{
 		Command `\noexpand\printbibliography' requires `biblatex'
 	}
 }
