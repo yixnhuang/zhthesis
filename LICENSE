@@ -1,21 +1,92 @@
-MIT License
+Yixuan Huang Non-Commercial Attribution Template License
+Version 1.0
 
-Copyright (c) 2026 Yixuan Huang
+Copyright © 2026 Yixuan Huang. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This license applies to the template, source code, documentation, configuration
+files, styles, layouts, examples, and other associated materials in this
+repository, unless otherwise stated.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Permission
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+Permission is granted, free of charge, to use, study, copy, and modify this
+work for personal, educational, academic, and other non-commercial purposes,
+subject to the conditions below.
+
+2. Attribution
+
+Attribution to Yixuan Huang is required for any public use, publication,
+distribution, or derivative work based on this work.
+
+Any public distribution or derivative work must include the following notice
+in a reasonably visible location, such as a README file, documentation page,
+website footer, source code comment, or acknowledgements section:
+
+    Based on work by Yixuan Huang
+
+All existing copyright notices, attribution notices, and license notices must
+be preserved.
+
+3. Non-Commercial Use Only
+
+Commercial use is prohibited without prior written permission from Yixuan Huang.
+
+Commercial use includes, but is not limited to:
+
+- selling this work or derivative works;
+- paid redistribution;
+- sublicensing;
+- offering this work as part of a paid product or service;
+- using this work in commercial template marketplaces;
+- using this work as part of a paid web design, resume design, academic
+  formatting, consulting, or development service;
+- monetized hosting or deployment of this work as a template or service.
+
+4. Permitted Personal and Academic Use
+
+Using this work to create an individual resume, CV, academic profile,
+portfolio, personal website, thesis, dissertation, coursework document, or
+job or school application material does not constitute commercial use,
+provided that the work itself is not sold, sublicensed, redistributed for
+profit, or offered as part of a paid service.
+
+5. Modifications and Derivative Works
+
+You may modify this work and create derivative works for personal,
+educational, academic, and non-commercial purposes.
+
+If you publicly distribute a modified version or derivative work, you must:
+
+- preserve attribution to Yixuan Huang;
+- include this license;
+- clearly indicate that changes were made;
+- not misrepresent the modified version as the original work;
+- not claim sole authorship of the original work.
+
+6. No Removal of Attribution
+
+You may not remove, obscure, replace, or falsify copyright notices,
+attribution notices, license notices, author names, or acknowledgements
+included in the original work.
+
+7. Reservation of Rights
+
+All rights not expressly granted by this license are reserved by Yixuan Huang.
+
+8. Termination
+
+Any violation of this license automatically terminates the rights granted to
+you under this license. Upon termination, you must stop using and distributing
+the work and remove any publicly available copies under your control that
+violate this license.
+
+9. No Warranty
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE
+OF THE WORK.
