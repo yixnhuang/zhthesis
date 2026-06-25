@@ -54,8 +54,8 @@
 
 本项目遵循以下许可协议发布：
 
-ACADEMIC ATTRIBUTION AND RESTRICTED USE LICENSE  
-Version 1.0.0
+Yixuan Huang Non-Commercial Attribution Template License
+Version 1.0
 
 完整条款及细则请参阅 LICENSE 文件。
 

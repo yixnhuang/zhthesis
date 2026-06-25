@@ -55,8 +55,8 @@ It is always meaningful to know that this project has been useful to others.
 
 This project is distributed under the:
 
-ACADEMIC ATTRIBUTION AND RESTRICTED USE LICENSE  
-Version 1.0.0
+Yixuan Huang Non-Commercial Attribution Template License
+Version 1.0
 
 See the `LICENSE` file for full terms and conditions.
 
