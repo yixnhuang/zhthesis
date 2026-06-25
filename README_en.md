@@ -55,8 +55,8 @@ It is always meaningful to know that this project has been useful to others.
 
 This project is distributed under the:
 
-ACADEMIC ATTRIBUTION AND RESTRICTED USE LICENSE  
-Version 1.0.0
+Yixuan Huang Non-Commercial Attribution Template License
+Version 1.0
 
 See the `LICENSE` file for full terms and conditions.
 
@@ -90,7 +90,7 @@ You may also clone the repository and compress the project manually before uploa
 Clone the repository using Git:
 
 ```bash
-git clone https://github.com/yixuanhuang04/zhthesis.git
+git clone https://github.com/yixnhuang/zhthesis.git
 ```
 
 Then compile the project using your local LaTeX environment.
@@ -117,7 +117,7 @@ Recommended environments:
 
 If you have any questions about the template, you may contact me using the most recent email address available on my personal website:
 
-[https://github.com/yixuanhuang04](https://yixuanhuang04.github.io)
+[https://github.com/yixnhuang](https://yixnhuang.github.io)
 
 English email communication is preferred.
 

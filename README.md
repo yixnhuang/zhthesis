@@ -54,8 +54,8 @@
 
 本项目遵循以下许可协议发布：
 
-ACADEMIC ATTRIBUTION AND RESTRICTED USE LICENSE  
-Version 1.0.0
+Yixuan Huang Non-Commercial Attribution Template License
+Version 1.0
 
 完整条款及细则请参阅 LICENSE 文件。
 
@@ -87,7 +87,7 @@ Version 1.0.0
 你可以通过 Git 获取项目：
 
 ```bash
-git clone https://github.com/yixuanhuang04/zhthesis.git
+git clone https://github.com/yixnhuang/zhthesis.git
 ```
 
 随后使用本地 LaTeX 环境进行编译。
@@ -114,7 +114,7 @@ XeLaTeX
 
 如果你对模板有任何问题，可以通过我的个人主页中最新的邮箱地址联系我：
 
-[https://github.com/yixuanhuang04](https://yixuanhuang04.github.io)
+[https://github.com/yixnhuang](https://yixnhuang.github.io)
 
 推荐使用英文邮件进行交流。
 
