@@ -117,7 +117,7 @@ Recommended environments:
 
 If you have any questions about the template, you may contact me using the most recent email address available on my personal website:
 
-[https://github.com/yixnhuang](https://yixuanhuang.com/)
+[https://yixuanhuang.com/](https://yixuanhuang.com/)
 
 English email communication is preferred.
 
