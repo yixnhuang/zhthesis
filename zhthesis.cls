@@ -26,7 +26,7 @@
 %
 % Contact:
 %   The most recent contact information can be found at:
-%   https://yixuanhuang.com/
+%   https://yixuanhuang.com
 %
 %   English email communication is preferred.
 % ------------------------------------------------------------------------------
