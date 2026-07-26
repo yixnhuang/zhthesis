@@ -1,0 +1,25 @@
+ZhThesis: A modern LaTeX framework for Chinese academic theses
+
+Copyright (c) 2026 Yixuan Huang
+
+ZhThesis is distributed under the LaTeX Project Public License, version 1.3c or
+any later version. The complete license text is provided in LICENSE.
+
+This work has the LPPL maintenance status "maintained".
+The Current Maintainer of this work is Yixuan Huang.
+
+The official repository is:
+
+    https://github.com/yixnhuang/zhthesis
+
+Theses, dissertations, coursework, and other documents generated with ZhThesis
+are not derivative works of the template merely because they were produced with
+it. Their content belongs to their respective authors, and generated documents
+do not need to display attribution to ZhThesis or Yixuan Huang.
+
+Modified versions must comply with the LPPL, identify their changes, and avoid
+using the ZhThesis name or branding in a way that suggests official status or
+endorsement.
+
+Institution-specific names, marks, declaration text, fonts, and other
+third-party materials remain subject to their respective owners' terms.

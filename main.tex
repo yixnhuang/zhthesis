@@ -9,20 +9,12 @@
 % Repository:
 %   https://github.com/yixnhuang/zhthesis
 %
-% Copyright (c) 2026 Yixuan Huang. All rights reserved.
+% Copyright (c) 2026 Yixuan Huang
 %
-% You are allowed to use, modify, and fork this repository for academic and
-% personal purposes.
-%
-% Redistribution or publication of modified electronic versions must be done
-% through a fork of the original repository, with clear attribution to the
-% original project and repository link included in the documentation.
-%
-% Republishing this project or modified versions without attribution is
-% prohibited.
-%
-% Commercial use, resale, or any profit-oriented distribution of this project
-% or its derivatives is strictly prohibited.
+% Distributed under the LaTeX Project Public License, version 1.3c or later.
+% This work has the LPPL maintenance status "maintained".
+% The Current Maintainer of this work is Yixuan Huang.
+% See LICENSE for the complete terms.
 %
 % Contact:
 %   The most recent contact information can be found at:

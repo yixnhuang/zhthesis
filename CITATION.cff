@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use or discuss ZhThesis, please cite the official repository."
+title: "ZhThesis: A Modern LaTeX Framework for Chinese Academic Theses"
+type: software
+authors:
+  - family-names: Huang
+    given-names: Yixuan
+repository-code: "https://github.com/yixnhuang/zhthesis"
+url: "https://github.com/yixnhuang/zhthesis"
+abstract: "A customizable LaTeX framework for Chinese academic theses."
+license: "LPPL-1.3c"
+keywords:
+  - LaTeX
+  - thesis
+  - Chinese typesetting
+  - academic writing
+  - template
+preferred-citation:
+  type: software
+  title: "ZhThesis: A Modern LaTeX Framework for Chinese Academic Theses"
+  authors:
+    - family-names: Huang
+      given-names: Yixuan
+  repository-code: "https://github.com/yixnhuang/zhthesis"
+  url: "https://github.com/yixnhuang/zhthesis"
