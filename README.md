@@ -70,6 +70,10 @@ xelatex main.tex
 ├── texs/
 │   ├── 00_abstract.tex
 │   ├── 01_intro.tex
+│   ├── 02_problem.tex
+│   ├── 03_structural.tex
+│   ├── 04_algorithm.tex
+│   ├── 05_experiments.tex
 │   ├── 06_conclusion.tex
 │   ├── 20_acknowledgement.tex
 │   └── 30_appendices.tex
